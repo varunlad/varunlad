@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Next.js, Node.js & MongoDB**
-- 💻 Explore my work: Portfolio
+- 💻 Explore my work: All of my projects are available at [https://my-portfolio-varun.vercel.app](https://my-portfolio-varun.vercel.app)
 - 💬 Ask me about **React.js, JavaScript & Responsive UI Design**
 
 ### ✨ What I Love
