@@ -3,9 +3,9 @@
 <h3 align="center">Passionate Software Developer from India</h3>
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **Next.js, Node.js & MongoDB**
-- 💻 Explore my work: All of my projects are available at [https://my-portfolio-varun.vercel.app](https://my-portfolio-varun.vercel.app)
+- 💻 Explore my work at [https://my-portfolio-varun.vercel.app](https://my-portfolio-varun.vercel.app)
 - 💬 Ask me about **React.js, JavaScript & Responsive UI Design**
+- 🌱 Currently learning **Next.js, Node.js & MongoDB**
 
 ### ✨ What I Love
 Crafting clean, responsive, and user-friendly web applications that deliver great experiences.
