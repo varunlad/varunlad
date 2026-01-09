@@ -4,8 +4,8 @@
 
 ### 👨‍💻 About Me
 - 💻 Explore my work at [https://my-portfolio-varun.vercel.app](https://my-portfolio-varun.vercel.app)
-- 💬 Ask me about **React.js, JavaScript & Responsive UI Design**
-- 🌱 Currently learning **Next.js, Node.js & MongoDB**
+- 💬 Ask me about **React.js, JavaScript & Responsive UI Design.**
+- 🌱 Currently learning **Next.js, Node.js & MongoDB.**
 
 ### ✨ What I Love
 Crafting clean, responsive, and user-friendly web applications that deliver great experiences.
