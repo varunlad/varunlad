@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Varun Lad</h1>
-<h3 align="center">Passionate Software Developer from India</h3>
+<h3 align="center">Passionate Software Developer</h3>
 
 ### 👨‍💻 About Me
 - 💻 Explore my work at [https://my-portfolio-varun.vercel.app](https://my-portfolio-varun.vercel.app)
