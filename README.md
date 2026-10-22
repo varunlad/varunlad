@@ -18,9 +18,13 @@ Crafting clean, responsive, and user-friendly web applications that deliver grea
 ### 📫 Contact Me
 - Email: **varunlad5@gmail.com**
 
+--- 
+
 ## My npm packages
 
  [@varunlad9/multi-dropdown](https://www.npmjs.com/package/@varunlad9/multi-dropdown)
+
+ ---
 
 ### 🤝 Connect with me
 <p align="left">
