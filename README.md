@@ -19,6 +19,10 @@ Crafting clean, responsive, and user-friendly web applications that deliver grea
 - Email: **varunlad5@gmail.com**
 
 ---
+## My npm packages
+
+- [@varunlad9/multi-dropdown](https://www.npmjs.com/package/@varunlad9/multi-dropdown): A customizable React dropdown with single select, multi select, search, and animations.
+  ----
 
 ### 🤝 Connect with me
 <p align="left">
